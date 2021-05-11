@@ -1,0 +1,27 @@
+_repo: Beyond-the-Fearful-Forest_65186
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krepps, Robert W.
+    aliases:
+    - Krepps, Robert Wilson
+    - St. Reynard, Geoff
+    - Reynard, Geoff St.
+    - Reynard, Geoffrey St.
+    birthdate: 1919
+    deathdate: 1980
+    gutenberg_agent_id: '35674'
+    url: http://www.gutenberg.org/2009/agents/35674
+description: ''
+gutenberg_issued: '2021-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Beyond the Fearful Forest
+url: http://www.gutenberg.org/ebooks/65186
